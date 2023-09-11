@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheCodeDaniel
-- 👀 I’m a software developer
+- 👀 I’m a Software Developer
 - 🌱 I currently use Laravel and Flutter
 - 💞️ I’m looking forward to working with you
 - 📫 You can reach me at thecodedaniel@gmail.com

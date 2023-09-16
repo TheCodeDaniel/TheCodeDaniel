@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TheCodeDaniel
+- 👋 Hi, I’m Daniel
 - 👀 I’m a Software Developer
-- 🌱 I currently use Laravel and Flutter
-- 💞️ I’m looking forward to working with you
+- 🌱 I use Laravel and Flutter
+- 💞️ Looking forward to working with you
 - 📫 You can reach me at thecodedaniel@gmail.com
 
 <!---

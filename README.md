@@ -2,7 +2,7 @@
 - 👀 I’m a Software Developer
 - 🌱 I use Laravel and Flutter
 - 💞️ Looking forward to working with you
-- 📫 You can reach me at thecodedaniel@gmail.com
+- 📫 Reach out to me at thecodedaniel@gmail.com
 
 <!---
 TheCodeDaniel/TheCodeDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

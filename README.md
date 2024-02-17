@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m a Software Developer
-- 🌱 I use Laravel and Flutter
+- 🌱 I mainly use Flutter
+- 😊 I'm currently learning python
 - 💞️ Looking forward to working with you
 - 📫 Reach out to me at thecodedaniel@gmail.com
 

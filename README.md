@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m a Software Developer
-- 🌱 I mainly use Flutter
-- 😊 I'm currently learning python
-- 💞️ Looking forward to working with you
+- 👀 I’m a Mobile Developer
+- 🌱 I use Flutter to build my apps
+- 😊 I love learning new thing's
+- 💞️ It would be great if we work together
 - 📫 Reach out to me at thecodedaniel@gmail.com
 
 <!---

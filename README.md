@@ -3,7 +3,7 @@
 - 🌱 I use Flutter to build my apps
 - 👌 I use google product along with flutter (Firebase, Cloud console, AI studio, Play console and others)
 - 😊 I love learning new things
-- 💞️ It would be great if we work together
+- 💞️ You would love to work with me
 - 📫 Reach out to me at thecodedaniel@gmail.com
 
 <!---

@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I'm not gonna say "I'm a passionate dev" that's just too common, the simple thing you need to know is, I get the job done.. Always 🙂.</h3>
+<h3 align="center">I'm not gonna say *"Im a passionate dev"* that line is just too common, the simple thing you need to know is, I get the job done.. Always 🙂.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodedaniel&label=Profile%20views&color=0e75b6&style=flat" alt="thecodedaniel" /> </p>
 

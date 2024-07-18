@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodedaniel" alt="thecodedaniel" /></a> </p>
 
-- 🌱 I’m currently learning **FastApi**
+- 🌱 I’m currently learning **🐍FastApi**
 
 - 👨‍💻 All of my projects are available at [https://daniel-a.netlify.app/](https://daniel-a.netlify.app/)
 

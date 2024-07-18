@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I'm not gonna say *"Im a passionate dev"* that line is just too common, the simple thing you need to know is, I get the job done.. Always 🙂.</h3>
+<h3 align="center">I'm not gonna say **"Im a passionate dev"** that line is just too common, the simple thing you need to know is, I get the job done.. Always 🙂.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodedaniel&label=Profile%20views&color=0e75b6&style=flat" alt="thecodedaniel" /> </p>
 
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://daniel-a.netlify.app/](https://daniel-a.netlify.app/)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter/Dart**
 
 - 📫 How to reach me **thecodedaniel@gmail.com**
 

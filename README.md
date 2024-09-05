@@ -1,26 +1,5 @@
 
 
-<!---
-TheCodeDaniel/TheCodeDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I'm not gonna say **"Im a passionate dev"** that line is just too common, the simple thing you need to know is, I get the job done.. Always 🙂.</h3>
-
-
-- 🌱 I’m currently learning **🐍FastApi**
-
-- 👨‍💻 All of my projects are available at [https://daniel-a.netlify.app/](https://daniel-a.netlify.app/)
-
-- 💬 Ask me about **Flutter/Dart**
-
-- 📫 How to reach me **thecodedaniel@gmail.com**
-
-- ⚡ Fun fact **I Love Coding (It's a hobby and a job for me)...**
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 
 
 

@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">I'm not gonna say **"Im a passionate dev"** that line is just too common, the simple thing you need to know is, I get the job done.. Always 🙂.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodedaniel&label=Profile%20views&color=0e75b6&style=flat" alt="thecodedaniel" /> </p>
 
 - 🌱 I’m currently learning **🐍FastApi**
 
@@ -22,6 +21,5 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodedaniel&show_icons=true&locale=en&layout=compact" alt="thecodedaniel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecodedaniel&show_icons=true&locale=en" alt="thecodedaniel" /></p>
 
 

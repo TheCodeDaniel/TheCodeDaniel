@@ -5,3 +5,5 @@
 <img src="https://raw.githubusercontent.com/TheCodeDaniel/TheCodeDaniel/output/snake.svg" alt="Snake animation" />
 
 ### -->
+
+![TheCodeDaniel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheCodeDaniel&theme=dark&hide_border=true)

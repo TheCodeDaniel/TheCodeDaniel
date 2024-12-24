@@ -1,6 +1,4 @@
-<!-- ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCodeDaniel&show_icons=true&theme=codeSTACKr) -->
-<!--
-
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCodeDaniel&show_icons=true&theme=codeSTACKr)
 
 <img src="https://raw.githubusercontent.com/TheCodeDaniel/TheCodeDaniel/output/snake.svg" alt="Snake animation" />
 
@@ -13,7 +11,7 @@
 ![TheCodeDaniel's Stats](https://github-readme-stats.vercel.app/api?username=TheCodeDaniel&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
-### -->
+
 
 
 

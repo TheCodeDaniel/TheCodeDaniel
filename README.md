@@ -23,7 +23,3 @@ Apart from coding, I enjoy more coding 😅.
 
 ## ⚡ Fun Fact
 I love coding 😅💻.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheCodeDaniel&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeDaniel&layout=compact)

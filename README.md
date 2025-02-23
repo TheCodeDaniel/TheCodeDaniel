@@ -13,7 +13,7 @@ I'm your friendly neighbourhood developer who loves coding and building awesome 
 ## 💼 Work
 - I'm currently working on "Socket Probe", you can check it out @ https://socket-probe.web.app.
 
-## 📚 Interests
+## 📚 ⚡ Interests
 Apart from coding, I enjoy more coding 😅.
 
 ## 📫 Contact Me
@@ -21,5 +21,3 @@ Apart from coding, I enjoy more coding 😅.
 - Twitter: https://x.com/thecodedan
 - Email: thecodedaniel@gmail.com
 
-## ⚡ Fun Fact
-I love coding 😅💻.

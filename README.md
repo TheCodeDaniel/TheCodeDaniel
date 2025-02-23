@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
-<img src="https://streak-stats.demolab.com?user=Thecodedaniel&theme=highcontrast&hide_border=true" alt="Thecodedaniel's GitHub Streak Stats" style="width: 48%;">
-<img src="https://github-readme-stats.vercel.app/api?username=Thecodedaniel&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Thecodedaniel's GitHub Stats" style="width: 48%;">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Thecodedaniel&theme=highcontrast&show_icons=true&hide_border=true&count_private=false" alt="Thecodedaniel's GitHub Stats" style="width: 48%;">
 
 
 

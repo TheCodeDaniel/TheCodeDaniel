@@ -12,12 +12,3 @@ I'm your friendly neighbourhood developer who loves coding and building awesome 
 
 ## 💼 Work
 - I'm currently working on "Socket Probe", you can check it out @ https://socket-probe.web.app.
-
-## 📚 ⚡ Interests
-Apart from coding, I enjoy more coding 😅.
-
-## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/daniel-ainoko/
-- Twitter: https://x.com/thecodedan
-- Email: thecodedaniel@gmail.com
-

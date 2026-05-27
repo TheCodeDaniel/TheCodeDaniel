@@ -3,12 +3,12 @@
 ## 🚀 About Me
 I'm your friendly neighbourhood developer who loves coding and building awesome apps. I specialize in "Flutter" and enjoy exploring new technologies and frameworks.
 
-## 🔧 Technologies & Tools
+## 🔧 Main Technologies & Tools
 - **Languages:** dart
 - **Frameworks:** flutter
-- **Tools:** Bloc, Provider, Socket Probe, screenshot_guard etc
+- **Tools:** google tools (firebase, gcp, collab), apple tools 🙃 + anything you need me o work with
 
 
 
 ## 💼 Work
-- I'm currently working on "Socket Probe", you can check it out @ https://socket-probe.web.app.
+- I'm currently working on Everything and Anything

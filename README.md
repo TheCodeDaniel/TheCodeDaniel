@@ -6,7 +6,7 @@ I'm your friendly neighbourhood developer who loves coding and building awesome 
 ## 🔧 Main Technologies & Tools
 - **Languages:** dart
 - **Frameworks:** flutter
-- **Tools:** google tools (firebase, gcp, collab), apple tools 🙃 + anything you need me o work with
+- **Tools:** google tools (firebase, gcp, collab), apple tools 🙃 + anything you need me to work with
 
 
 
